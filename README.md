@@ -19,3 +19,5 @@ To get started, go to the `transformations` folder -- most of the relevant sourc
 * Use `Schedule` to run the pipeline on a schedule!
 
 For more tutorials and reference material, see https://docs.databricks.com/ldp.
+
+<img src="graph.png"></img>
